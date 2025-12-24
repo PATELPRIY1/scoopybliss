@@ -547,7 +547,7 @@ function initializeCategoryFilters() {
     if (itemsContainer) {
       itemsContainer.innerHTML = `
         <div class="no-items-wrapper">
-          <img src="./assets/images/noItems.png" alt="No items found" class="no-items-image"/>
+          <img src="./assets/images/noItems.png" alt="No items found" class="no-items-image">
           <p class="paragraph-1">No categories available at the moment.</p>
         </div>
       `;
