@@ -1005,6 +1005,10 @@ header {
         gap: var(--spacing-xs);
         font-size: 2rem;
         justify-content: center;
+
+        a{
+          color: var(--clr-green-100);
+        }
       }
     }
 
