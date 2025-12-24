@@ -30,7 +30,7 @@ const items = [
   {
     id: '003',
     category: 'Milkshake',
-    image: './assets/images/categoriesByProducts/milkshake/strawberryBlissShake.png',
+    image: './assets/images/categoriesByProducts/Milkshake/strawberryBlissShake.png',
     item_name: 'Strawberry Bliss Shake',
     original_price: 120,
     current_price: 100,
@@ -44,7 +44,7 @@ const items = [
   {
     id: '004',
     category: 'Milkshake',
-    image: './assets/images/categoriesByProducts/milkshake/mangoMilkShake.png',
+    image: './assets/images/categoriesByProducts/Milkshake/mangoMilkShake.png',
     item_name: 'Mango Magic Shake',
     original_price: 130,
     current_price: 110,
