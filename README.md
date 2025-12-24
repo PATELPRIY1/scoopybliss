@@ -2,5 +2,5 @@
 
 ### Screenshot
 
-![desktop_image](desktop_image.png)
-![mobile_image](mobile_image.png)
+![desktop_image](./assets/images/desktop_image.png)
+![mobile_image](./assets/images/mobile_image.png)
